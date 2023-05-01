@@ -13,11 +13,3 @@
     @apply h-6 text-discord_userId cursor-pointer hover:text-discord_iconHover;
   }
 }
-
-/* *::-webkit-scrollbar {
-  display: none;
-}
-* {
-  -ms-overflow-style: none;
-  scrollbar-width: none;
-} */
